@@ -20,7 +20,7 @@ if you enter no file or an invalid file, enter a file in the directory that work
 
 Sources:
 
-Data Strcutures textbook
+Data Structures textbook
 
 https://www.sanfoundry.com/cpp-program-count-lines-in-file/
 
