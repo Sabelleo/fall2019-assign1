@@ -79,7 +79,7 @@ int main(int argc, char* argv[])
               while (getline(file, line, '\n') && valid)
               {
                   //gather needed data, including number of lines and characters
-                  transform(line.begin(), line.end(), line.begin(), ::tolower());
+                  transform(line.begin(), line.end(), line.begin(), ::tolower);
                   numLines += 1;
                   lineChar = line.length();
                   totChar += lineChar;
